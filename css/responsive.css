@@ -1,0 +1,222 @@
+
+@media (max-width: 325px) {
+	
+	.main-banner {
+		height: 600px;
+	}
+
+	.main-banner-content {
+	  margin-top: 0px !important;
+	  padding: 1rem 0rem !important;
+	}
+	       
+	.main-banner-content h1 {
+	  margin: 0 0 9px 0;
+	  font-size: 1.5rem;
+	}
+
+	.main-banner-content h4 {
+	  letter-spacing: .55px;
+	  margin: 0 0 1.15rem 0;
+	  font-size: 1.15rem;
+	}
+
+	.contact-info .cont-card .cont-icon,
+	.social-connect .social-icon .icon-card {
+		  width: 2rem !important;
+		  height: 2rem !important;
+		  margin: .2rem .2rem !important;
+	}
+
+	.social-icon .icon-card a i {
+		  
+		  font-size: 1.15rem !important;
+		  margin-top: .2rem !important;
+		  
+	}
+
+	.contact-info .cont-card p a {
+	    font-size: .88rem !important;
+	    margin-left: .2rem;
+	}
+
+}
+
+
+@media (max-width: 495px) { 
+
+	.navbar-brand img {
+	  width: 9rem;
+	}
+
+	.main-banner-content {
+	  margin-top: 0px !important;
+	  padding: 1rem 0rem !important;
+	}
+	       
+	.main-banner-content h1 {
+	  margin: 0 0 9px 0;
+	  font-size: 1.8rem;
+	}
+
+	.main-banner-content h4 {
+	  letter-spacing: 1px;
+	  margin: 0 0 1.15rem 0;
+	  font-size: 1.2rem;
+	}
+
+	.section-title span h3 {
+	    font-size: 1.45rem;
+	}
+
+	.section-title h4 {
+	    font-size: 1.2rem;
+	}
+
+	.single-addr i.fa,
+	.single-main-offer .offer-icon i.fa-x {
+	    font-size: 2rem !important;
+	}
+
+	.single-main-offer h3 {
+	    font-size: 1.45rem !important;
+	    letter-spacing: 1px;
+	    padding: .4rem .2rem;
+	}
+
+	/*.blog-page .blog-column span.u-line h3,
+	.service-page .service-column span.u-line h3,*/ 
+	.about-us .abt-main span.u-line h3,
+	.single-abt-intro span h3 {
+	    font-size: 1.45rem;
+	}
+
+	.single-service h4,
+	.news-right h4,
+	.tmonial-top h4,
+	.single-team-wrap .team-detail h4 {
+	    font-size: 1.4rem;
+	}
+
+	.contact-info .cont-card p a,
+	.single-widget .widget_head,
+	.tmonial-top span,
+	.single-team-wrap .team-detail span {
+	    font-size: 1.2rem;
+	}
+
+	.contact-page .contact-column h5,
+	.single-service p,
+	.widget-post .widget_post_link,
+	.tmonial-comment p {
+	    font-size: 1.124rem;
+	}
+
+	footer.main-ft p,
+	.contact-page .contact-column h5 {
+	  font-size: 1rem;
+	}
+
+	.news-icon {
+		display: none;
+	}
+
+	.news-right {
+	    padding: 0rem 0rem 0rem .6rem !important;
+	}
+
+	.blog-column .p-quote, 
+	.abt-main .p-quote {
+	  margin: .26rem auto;
+	}
+
+	.main-single-blog .blog-meta li span, .single-blog .blog-meta li span {
+    font-size: .75rem !important;
+}
+
+
+
+
+
+@media (max-width: 767px) {
+
+	.main-banner-content h1 {
+	  font-size: 2.4rem;
+	}
+
+	.main-banner-content h4 {
+	  letter-spacing: 1px;
+	  margin: 0 0 1.5rem 0;
+	  /*font-size: 1.2rem;*/
+	}
+
+	.side_widgets {
+    	margin-top: 2.65rem !important;
+      padding-left: .5rem !important;
+	}
+
+	.single-abt-intro-img {
+	    margin-top: .6rem !important;
+	    padding-left: 0rem !important;
+	}
+
+	.post-date {
+    padding: .2rem .2rem !important;
+	}
+}
+
+
+
+
+@media (max-width: 991px) {
+
+	.post-date {
+    padding: .25rem .25rem !important;
+    width: auto !important;
+	}
+	.post-date h3 {
+    font-size: 1rem !important;
+    font-weight: bold;
+	}
+
+	.post-date span {
+	    font-size: 1rem !important;
+	}
+
+	.navbar-light .navbar-toggler {
+    padding: .15rem .50rem !important;
+	}
+
+	.main-single-blog .blog-meta li a.po-feed, .single-blog .blog-meta li a.po-feed {
+    font-size: 1rem !important;
+	}
+
+	.main-single-blog .blog-meta li i.fa, .single-blog .blog-meta li i.fa {
+    font-size: 1rem !important;
+    padding-right: 0rem !important;
+	}
+
+	.main-single-blog .entry-title, .single-blog .entry-title {
+    font-size: 1.2rem !important;
+	}
+
+}
+
+
+
+@media (min-width: 992px) {
+
+	header .navbar {
+	  padding-top: .23rem !important;
+	  padding-bottom: .23rem !important;
+	}
+
+}
+
+
+
+
+
+
+
+
